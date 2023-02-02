@@ -109,10 +109,10 @@ body {
     object-fit: cover;
     border-radius: 10px;
 }
-.content__descr {
+.content__text {
     max-width: 280px;
 }
-.content__descr h1 {
+.content__text h1 {
     font-size: 24px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
@@ -120,7 +120,7 @@ body {
     line-height: 1.2;
     margin: 0 0 20px 0;
 }
-.content__descr p {
+.content__text p {
     font-size: 15px;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
