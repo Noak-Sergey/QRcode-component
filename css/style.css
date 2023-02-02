@@ -96,12 +96,12 @@ body {
     text-align: center;
 }
 .content {
-    padding: 20px 20px 30px 20px;  
+    padding: 15px 15px 25px 15px;  
 }
 .content__image {
     padding: 0 0 25px 0;
     overflow: hidden;
-    max-width: 270px;
+    max-width: 290px;
 }
 .content__image img {
     width: 100%;
