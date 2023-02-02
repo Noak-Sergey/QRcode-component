@@ -101,7 +101,7 @@ body {
 .content__image {
     padding: 0 0 25px 0;
     overflow: hidden;
-    max-width: 280px;
+    max-width: 270px;
 }
 .content__image img {
     width: 100%;
@@ -110,10 +110,10 @@ body {
     border-radius: 10px;
 }
 .content__text {
-    max-width: 280px;
+    max-width: 275px;
 }
 .content__text h1 {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     letter-spacing: 0.1px;
